@@ -131,4 +131,4 @@ Try running `git` again and you should be all set.
 
 There's lots more you can do in CL besides working with files and directories. The above exercise was just to get you familiar with working with commands and some basic directory navigation.
 
-See [Common Commands](https://github.com/susanBuck/notes/blob/master/07_Command_Line/05_Common-commands.md) for a quick cheat sheet on all the commands we used above.
+See [Common Commands](https://github.com/susanBuck/dwa15-fall2015-notes/blob/master/00_Command_Line/05_Common-commands.md) for a quick cheat sheet on all the commands we used above.
